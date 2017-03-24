@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeusFilmesX/CoreDataManager.swift"
+            timestampString = "511985991.382431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "persistentContainer"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeusFilmesX.CoreDataManager.persistentContainer.unsafeMutableAddressor : __ObjC.NSPersistentContainer"
+                  moduleName = "MeusFilmesX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/leonardoX/hackatruckX/MeusFilmesX/MeusFilmesX/CoreDataManager.swift"
+                  timestampString = "511991436.481851"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MeusFilmesX.CoreDataManager.persistentContainer.getter : __ObjC.NSPersistentContainer"
+                  moduleName = "MeusFilmesX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/leonardoX/hackatruckX/MeusFilmesX/MeusFilmesX/CoreDataManager.swift"
+                  timestampString = "511991436.483944"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static MeusFilmesX.CoreDataManager.persistentContainer.setter : __ObjC.NSPersistentContainer"
+                  moduleName = "MeusFilmesX"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/student/Users/student/Documents/leonardoX/hackatruckX/MeusFilmesX/MeusFilmesX/CoreDataManager.swift"
+                  timestampString = "511991436.486356"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "61">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
